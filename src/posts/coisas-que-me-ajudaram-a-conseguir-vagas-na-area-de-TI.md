@@ -11,17 +11,17 @@ Neste artigo vou falar coisas que foram extremamente importantes para que eu con
 
 Vamos lá?
 
-# Github
+## Github
 
 Entender pelo menos o básico de GIT, e começar a adicionar seus projetos no github é algo muito interessante de se fazer.
 
 Você pode usar algum outro site, como por exemplo o Gitlab ou Bitbucket, mas o Github é um pouco mais utilizado, e tem uma funcionalidade muito legal que é poder criar um readme no seu perfil. Essa feature permite que você personalize da forma que quiser, e adicionar qualquer informação que você considere importante logo na primeira tela.
 
-[imagem]
+![Print de um github com readme feito](/github-bruno.png)
 
 A redito que ter um Github organizado é algo fundamental, pois é lá que as pessoas vão conseguir ver o que você sabe fazer em código.
 
-# Linkedin
+## Linkedin
 
 Se no Github temos nossos códigos e projetos, é no Linkedin que nos apresentamos por completo dentro da internet.
 
@@ -37,7 +37,7 @@ Existem diversos motivos para que você tenha um perfil dentro desta rede social
 
 No início pode ser um pouco complicado, mas vale a pena dar atenção para esta rede social.
 
-# Curriculo
+## Curriculo
 
 Este assunto é um pouco delicado pois já vi diversos recrutadores falando que não é legal ter um curriculo em colunas, e que é mais interessante focar no básico. Em contra partida, também já ouvi pessoas dizendo que gostam de ver curriculos diferenciados e que se mostram diferentes dos demais.
 
@@ -47,7 +47,7 @@ Antes de me candidatar eu pesquiso muito sobre a vaga, sobre a empresa, tento en
 
 Como disse antes, esse é um assunto que divide opiniões, então sugiro que pesquise bastante, e encontre a solução que mais faça sentido para você.
 
-# Site Pessoal
+## Site Pessoal
 
 Quando estamos tentando entrar no mercado de trabalho, ou quando estamos em busca de um emprego na area, o que mais precisamos é de visibilidade e de algumas coisas para mostrar. É nesse ponto que entra o site pessoal.
 
@@ -57,7 +57,7 @@ No meu caso, que sou desenvolvedor Front End, busquei por layouts que pudesse de
 
 Não acho que ter um site pessoal é algo tão importante quanto os itens que citei anteriormente, mas tenho certeza que é algo a ser pensado com bastante carinho.
 
-# Networking
+## Networking
 
 Ter contatos é o que vai te salvar em diversos momentos da sua carreira, e isso engloba também a busca por emprego.
 
@@ -65,7 +65,7 @@ Através de contatos eu consegui minha primeira oportunidade no mercado de traba
 
 Conoverse, elogie, se mostre disponível, ajude, seja gentil. São pequemas coisas que vão te fazer ser vem visto, e ter diversas conexões.
 
-# Conclusão
+## Conclusão
 
 Neste artigo coloquei todos os pontos que foram importantes para as vagas de emprego que me candidatei, e felizmente fui aceito.
 
