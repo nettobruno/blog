@@ -15,11 +15,11 @@ Vamos lá?
 
 Entender pelo menos o básico de GIT, e começar a adicionar seus projetos no github é algo muito interessante de se fazer.
 
-Você pode usar algum outro site, como por exemplo o Gitlab ou Bitbucket, mas o Github é um pouco mais utilizado, e tem uma funcionalidade muito legal que é poder criar um readme no seu perfil. Essa feature permite que você personalize da forma que quiser, e adicionar qualquer informação que você considere importante logo na primeira tela.
+Você pode usar algum outro site, como por exemplo o Gitlab ou Bitbucket, mas o Github é um pouco mais utilizado, e tem uma funcionalidade muito legal que é poder criar um readme no seu perfil. Essa feature permite que você personalize da forma que quiser, e até adicionar qualquer informação que você considere importante logo na primeira tela.
 
 ![Print de um github com readme feito](/github-bruno.png)
 
-A redito que ter um Github organizado é algo fundamental, pois é lá que as pessoas vão conseguir ver o que você sabe fazer em código.
+Acredito que ter um Github organizado é algo fundamental, pois é lá que as pessoas vão conseguir ver o que você sabe fazer em código.
 
 ## Linkedin
 
@@ -51,9 +51,11 @@ Como disse antes, esse é um assunto que divide opiniões, então sugiro que pes
 
 Quando estamos tentando entrar no mercado de trabalho, ou quando estamos em busca de um emprego na area, o que mais precisamos é de visibilidade e de algumas coisas para mostrar. É nesse ponto que entra o site pessoal.
 
-Acredito ser uma boa ideia ter um site próprio, que tenha informações de contato e alguns projetos desenvolvidos. Juntando com um Github, Linkedin e curriculo bem organizados, a junção de todos esses itens pode ajudar muito no momento de buscar por vagas de emprego.
+Acredito ser uma boa ideia ter um site próprio, que tenha informações de contato e alguns projetos desenvolvidos. A junção de um Github, Linkedin e curriculo bem organizados, pode ajudar muito no momento de buscar por vagas de emprego.
 
 No meu caso, que sou desenvolvedor Front End, busquei por layouts que pudesse desenvolver, e coloquei todos dentro do meu site pessoal com um link para a página e github de cada um. Isso me ajudou muito a ter projetos desenvolvidos mesmo sem experiência no mercado.
+
+![Print de um site pessoal](/site-pessoal-bruno.png)
 
 Não acho que ter um site pessoal é algo tão importante quanto os itens que citei anteriormente, mas tenho certeza que é algo a ser pensado com bastante carinho.
 
@@ -63,12 +65,12 @@ Ter contatos é o que vai te salvar em diversos momentos da sua carreira, e isso
 
 Através de contatos eu consegui minha primeira oportunidade no mercado de trabalho, e felizmente já consegui fazer a ponte para empregar algumas pessoas. 
 
-Conoverse, elogie, se mostre disponível, ajude, seja gentil. São pequemas coisas que vão te fazer ser vem visto, e ter diversas conexões.
+Converse, elogie, se mostre disponível, ajude, seja gentil. São pequemas coisas que vão te fazer ser bem visto, e ter diversas conexões.
 
 ## Conclusão
 
 Neste artigo coloquei todos os pontos que foram importantes para as vagas de emprego que me candidatei, e felizmente fui aceito.
 
-Espero que isso possa de alguma dorma te ajudar a conquinstar o que deseja, e que de certa forma eu tenha contrinuido pelo menos um pouco com uma comunidade que já me ajudou e continua me ajudadando.
+Espero que isso possa te ajudar a conquinstar o que deseja, e que de certa forma eu tenha contribuido pelo menos um pouco com uma comunidade que já me ajudou e continua me ajudadando muito.
 
 Abraços, muito sucesso, e até a próxima.
