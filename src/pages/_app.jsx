@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from "next/link";
+import Header from '../components';
 
 import '../styles/globals.css'
 
@@ -13,11 +14,7 @@ export default function App({ Component, pageProps }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <header className="py-10 bg-gradient-to-r from-green-400 to-blue-500 text-center">
-        <Link href="/">
-          <h2 className="text-5xl font-bold text-white">Blogão versão 0.0.0.0.0.0.0.0.1</h2>
-        </Link>
-      </header>
+      <Header />
 
       <main className="my-6 mx-auto p-6 bg-white sm:shadow-lg rounded prose lg:prose-xl">
         <Component {...pageProps} />
