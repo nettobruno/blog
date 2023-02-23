@@ -18,27 +18,42 @@ export const getStaticProps = async ({ params: { slug } }) => {
   return { props: post };
 };
 
-export default function Post({ title, date, creator, avatarCreator, markdown }) {
+export default function Post({
+  title,
+  date,
+  creator,
+  avatarCreator,
+  imageBackground,
+  markdown,
+}) {
   return (
-    <article>
+    <article className="max-w-4xl mx-auto py-20 px-4 md:px-8">
       <header className="flex flex-col items-center">
-        <Image
-            src={avatarCreator}
-            alt="Imagem do autor"
-            width={70}
-            height={70}
-            className="rounded-full"
-          />
-        <span className="-mt-10 mb-10 text-md font-light text-gray-500">{creator}</span>
-        <h1 className="my-7 text-6xl font-bold text-center">{title}</h1>
-        <time className="text-sm font-light text-gray-500">{date}</time>
+        <h1 className="mb-12 text-4xl md:text-6xl font-bold text-center">{title}</h1>
 
-        <span className="mt-5 h-0.5 w-full bg-gray-200" />
+        <Image
+          src={imageBackground}
+          alt="Imagem do artigo"
+          width={1216}
+          height={70}
+        />
       </header>
 
-      <ReactMarkdown className="px-10 py-20">
+      <ReactMarkdown className="prose-xl prose-li:list-disc prose-p:my-4 prose-img:my-5 prose-h2:mb-3 prose-h2:font-bold">
         {markdown}
       </ReactMarkdown>
+
+      <div className="flex flex-col items-center mt-20">
+        <Image
+          src={avatarCreator}
+          alt="Imagem do autor"
+          width={70}
+          height={70}
+          className="rounded-full mb-1"
+        />
+        <span className="text-lg font-medium text-black mb-1">{creator}</span>
+        <time className="text-lg font-medium text-gray-300">{date}</time>
+      </div>
     </article>
-  )
+  );
 }
