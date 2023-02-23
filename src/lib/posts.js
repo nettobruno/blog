@@ -18,6 +18,7 @@ const getPosts = async () => {
         date: document.data.date,
         creator: document.data.creator,
         avatarCreator: document.data.avatarCreator,
+        imageBackground: document.data.imageBackground,
         markdown: document.content,
       };
     })

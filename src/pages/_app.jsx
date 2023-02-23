@@ -16,9 +16,7 @@ export default function App({ Component, pageProps }) {
 
       <Header />
 
-      <main className="my-6 mx-auto p-6 bg-white sm:shadow-lg rounded prose lg:prose-xl">
-        <Component {...pageProps} />
-      </main>
+      <Component {...pageProps} />
     </>
   )
 }

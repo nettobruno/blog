@@ -3,6 +3,7 @@ title: "Coisas que me ajudaram a conseguir vagas na area de TI"
 date: "01/02/2023"
 creator: "Bruno Netto"
 avatarCreator: "https://github.com/nettobruno.png"
+imageBackground: "https://images.unsplash.com/photo-1664628631450-285ac9f87893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
 ---
 
 Desenvolvedores são altamente requisitados, ainda mais nos dias de hoje com o mercado tão aquecido.
