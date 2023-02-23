@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import LogoWhite from "../assets/logo-white.svg"
+import LogoWhite from "../../assets/logo-white.svg"
 
 export default function Header() {
   return (
