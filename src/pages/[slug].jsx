@@ -24,6 +24,7 @@ export default function Post({
   creator,
   avatarCreator,
   imageBackground,
+  creditImageBrackground,
   markdown,
 }) {
   return (
@@ -37,6 +38,7 @@ export default function Post({
           width={1216}
           height={70}
         />
+        <figcaption className="text-xs text-gray-400 mb-5 prose prose-a:text-gray-400 prose-a:font-bold" dangerouslySetInnerHTML={{__html: creditImageBrackground}}></figcaption>
       </header>
 
       <ReactMarkdown className="prose-xl prose-li:list-disc prose-p:my-4 prose-img:my-5 prose-h2:mb-3 prose-h2:font-bold">
