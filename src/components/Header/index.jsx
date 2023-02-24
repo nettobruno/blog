@@ -12,7 +12,7 @@ export default function Header() {
       <nav className="justify-between px-4 mx-auto md:items-center md:flex md:px-8 lg:max-w-7xl">
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
-            <Link href="/home">
+            <Link href="/">
               <Image
                 src={LogoWhite}
                 alt="Logo do projeto"
