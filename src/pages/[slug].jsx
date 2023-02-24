@@ -30,7 +30,7 @@ export default function Post({
   return (
     <article className="max-w-4xl mx-auto py-20 px-4 md:px-8">
       <header className="flex flex-col items-center">
-        <h1 className="mb-12 text-4xl md:text-6xl font-bold text-center">{title}</h1>
+        <h1 className="font-poppins mb-12 text-4xl md:text-6xl font-bold text-center">{title}</h1>
 
         <Image
           src={imageBackground}
@@ -38,10 +38,10 @@ export default function Post({
           width={1216}
           height={70}
         />
-        <figcaption className="text-xs text-gray-400 mb-5 prose prose-a:text-gray-400 prose-a:font-bold" dangerouslySetInnerHTML={{__html: creditImageBrackground}}></figcaption>
+        <figcaption className="font-poppins text-xs text-gray-400 mb-5 prose prose-a:text-gray-400 prose-a:font-bold" dangerouslySetInnerHTML={{__html: creditImageBrackground}}></figcaption>
       </header>
 
-      <ReactMarkdown className="prose-xl prose-li:list-disc prose-p:my-4 prose-img:my-5 prose-h2:mb-3 prose-h2:font-bold">
+      <ReactMarkdown className="font-poppins prose-xl prose-li:list-disc prose-p:my-4 prose-img:my-5 prose-h2:mb-3 prose-h2:font-bold">
         {markdown}
       </ReactMarkdown>
 
@@ -53,8 +53,8 @@ export default function Post({
           height={70}
           className="rounded-full mb-1"
         />
-        <span className="text-lg font-medium text-black mb-1">{creator}</span>
-        <time className="text-lg font-medium text-gray-300">{date}</time>
+        <span className="font-poppins text-lg font-medium text-black mb-1">{creator}</span>
+        <time className="font-poppins text-lg font-medium text-gray-300">{date}</time>
       </div>
     </article>
   );

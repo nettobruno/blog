@@ -67,15 +67,15 @@ export default function Header() {
             }`}
           >
             <ul className="items-center justify-center space-y-8 md:flex md:space-x-14 md:space-y-0">
-              <li className="text-xl text-white hover:underline">
+              <li className="font-poppins text-xl text-white hover:underline">
                 <Link href="/">Home</Link>
               </li>
 
-              <li className="text-xl text-white hover:underline">
+              <li className="font-poppins text-xl text-white hover:underline">
                 <Link href="/about">Sobre</Link>
               </li>
 
-              <li className="text-xl text-white hover:underline">
+              <li className="font-poppins text-xl text-white hover:underline">
                 <Link href="/contact">Contato</Link>
               </li>
             </ul>

@@ -15,8 +15,8 @@ export default function Home({ posts }) {
     <>
     <div className="w-full bg-white">
       <div className="max-w-7xl mx-auto py-20 px-4 md:px-8">
-        <h1 className="text-5xl text-center font-bold mb-5 md:text-start">Descomplica Código</h1>
-        <p className="text-3xl text-center md:text-start">
+        <h1 className="font-poppins text-5xl text-center font-bold mb-5 md:text-start">Descomplica Código</h1>
+        <p className="font-poppins text-3xl text-center md:text-start">
           Queremos ajudar, facilitar, e melhorar o entendimento de pessoas que estão iniciando no mundo da programação.
         </p>
       </div>
@@ -37,8 +37,8 @@ export default function Home({ posts }) {
                 />
 
                 <div className="border border-gray-300 p-5 rounded-b-lg">
-                  <h2 className="text-black text-2xl text-center mb-2 md:text-start">{title}</h2>
-                  <p className="text-gray-400 text-base text-center md:text-start">{date}</p>
+                  <h2 className="font-poppins font-medium text-black text-2xl text-center mb-2 md:text-start">{title}</h2>
+                  <p className="font-poppins text-gray-400 text-base text-center md:text-start">{date}</p>
                 </div>
               </Link>
             </li>
