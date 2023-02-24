@@ -29,7 +29,7 @@ Se no Github temos nossos códigos e projetos, é no Linkedin que nos apresentam
 
 Existem diversos motivos para que você tenha um perfil dentro desta rede social, mas vou citar apenas alguns:
 
-- É possível se relacioanar com outros profissionais;
+- É possível se relacionar com outros profissionais;
 - Encontrar emprego;
 - Ficar atualizado sobre diversos assuntos;
 - Ter visibilidade no mercado de trablho;
@@ -67,7 +67,7 @@ Ter contatos é o que vai te salvar em diversos momentos da sua carreira, e isso
 
 Através de contatos eu consegui minha primeira oportunidade no mercado de trabalho, e felizmente já consegui fazer a ponte para empregar algumas pessoas. 
 
-Converse, elogie, se mostre disponível, ajude, seja gentil. São pequemas coisas que vão te fazer ser bem visto, e ter diversas conexões.
+Converse, elogie, se mostre disponível, ajude, seja gentil. São pequenas coisas que vão te fazer ser bem visto, e ter diversas conexões.
 
 ## Conclusão
 
