@@ -12,7 +12,7 @@ export default function Header() {
       <nav className="justify-between px-4 mx-auto md:items-center md:flex md:px-8 lg:max-w-7xl">
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
-            <Link href="/">
+            <Link href="/" onClick={() => setNavbar(false)}>
               <Image
                 src={LogoWhite}
                 alt="Logo do projeto"
@@ -68,15 +68,15 @@ export default function Header() {
           >
             <ul className="items-center justify-center space-y-8 md:flex md:space-x-14 md:space-y-0">
               <li className="font-poppins text-xl text-white hover:underline">
-                <Link href="/">Home</Link>
+                <Link href="/" onClick={() => setNavbar(false)}>Home</Link>
               </li>
 
               <li className="font-poppins text-xl text-white hover:underline">
-                <Link href="/about">Sobre</Link>
+                <Link href="/about" onClick={() => setNavbar(false)}>Sobre</Link>
               </li>
 
               <li className="font-poppins text-xl text-white hover:underline">
-                <Link href="/contact">Contato</Link>
+                <Link href="/contact" onClick={() => setNavbar(false)}>Contato</Link>
               </li>
             </ul>
           </div>
